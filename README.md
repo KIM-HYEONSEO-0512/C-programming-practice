@@ -1,2 +1,2 @@
-# C-Report-practice
-Freshman Second Semester C Programmin
+# c-programming-practice
+Freshman Second Semester C Programming
